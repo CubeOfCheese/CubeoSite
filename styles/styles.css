@@ -1,0 +1,86 @@
+html{
+	margin: auto;
+}
+
+body{
+	background-color: white;
+	margin-top: 0px;
+	margin: auto;
+	position: relative;
+}
+
+.menu{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.icon-menu{
+	display: block;
+	margin: auto;
+	width: 45px;
+	height: 45px;
+}
+
+h4{
+	font-size: 30px;
+}
+
+h5{
+	font-size: 18px;
+	display: inline;
+}
+
+a{
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	background-color: white;
+}
+
+iframe{
+	display: block;
+	padding: 10px;
+	margin: auto;
+}
+
+.pagelink, .pagelink:visited, .pagelink:link{
+	font-size: 20px;
+	color: black;
+	background-color: white;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.pagelink:hover{
+	font-size: 20px;
+	background-color: black;
+	color: white;
+}
+
+#swagBunny{
+	display: block;
+	margin: auto;
+}
+
+#x-icon{
+	display: block;
+	margin: auto;
+	width: 45px;
+	height: 45px;
+}
+
+#change-user{
+    display: block;
+	margin: 10px;
+	float: right;
+}
+
+#vine{
+	display: inline;
+	color: green;
+}
+
+#stickwave{
+	width: 100%;
+	justify-content: center;
+}
