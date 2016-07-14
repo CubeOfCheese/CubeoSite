@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link href="styles/styles.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+	<title>Home</title>
+</head>
+
+<body>
+	<div class = "menu">
+		<a class="pagelink" href="index.html">Home</a>
+		<a class="pagelink" href="music.html">Music</a>
+		<a class="pagelink" href="games.html">Games</a>	
+		<a class="pagelink" href="brad.html">Brad</a>
+		<a class="pagelink" href="rapgenerator.html">Rap Generator</a>
+		<a class="pagelink" href="videos.html">Videos</a>
+		<a class="pagelink" href="about.html">About</a>
+
+	</div>
+	
+
+<h4>Where do you think you're going?</h4>
+<h5>404 Error</h5>
+	
+    <div class="addthis_sharing_toolbox"></div>
+    
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56f88acee429c933"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="scripts/main.js"></script>
+</body>
+</html>
