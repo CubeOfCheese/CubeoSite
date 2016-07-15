@@ -10,15 +10,9 @@ body{
 }
 
 .menu{
+	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-.icon-menu{
-	display: block;
-	margin: auto;
-	width: 45px;
-	height: 45px;
 }
 
 h4{
